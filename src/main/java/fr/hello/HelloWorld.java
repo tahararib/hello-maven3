@@ -8,6 +8,7 @@ public class HelloWorld {
 		 */
 		/**
 		 * un autre comment
+		 * encore
 		 */
 		
 		String message = "Hello Maven World";
