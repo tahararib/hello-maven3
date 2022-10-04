@@ -5,6 +5,7 @@ public class Afficher {
 	/**
 	 *	 * @param message
 	 *					display message
+	 *vv
 	 */
 	/**
 	 * un comment 
