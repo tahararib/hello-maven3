@@ -6,6 +6,9 @@ public class HelloWorld {
 		/**
 		 * Afficher le message en  clair
 		 */
+		/**
+		 * un autre comment
+		 */
 		
 		String message = "Hello Maven World";
 		Afficher A = new Afficher( );
