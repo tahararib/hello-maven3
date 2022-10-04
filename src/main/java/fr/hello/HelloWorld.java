@@ -7,7 +7,9 @@ public class HelloWorld {
 		 * Afficher le message
 		 */
 		
-		System.out.println("Hello Maven World") ;
+		String message = "Hello Maven World";
+		Afficher A = new Afficher( );
+		A.display(message) ;
 
 	}
 
