@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		/**
-		 * Afficher le message
+		 * Afficher le message en  clair
 		 */
 		
 		String message = "Hello Maven World";

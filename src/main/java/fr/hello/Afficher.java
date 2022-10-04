@@ -7,10 +7,7 @@ public class Afficher {
 	 *					display message
 	 *vv
 	 */
-	/**
-	 * un comment 
-	 * @param message
-	 */
+
 	
  public void display(String message)
 	{
